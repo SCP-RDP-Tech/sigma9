@@ -1,6 +1,6 @@
 ## Sigma-9
 
-[![](https://data.jsdelivr.com/v1/package/gh/scp-cn-tech/sigma9/badge?style=rounded)](https://www.jsdelivr.com/package/gh/scp-cn-tech/sigma9)
+[![](https://data.jsdelivr.com/v1/package/gh/scp-rdp-tech/sigma9/badge?style=rounded)](https://www.jsdelivr.com/package/gh/scp-rdp-tech/sigma9)
 
 This is a fork of the repository for the Sigma-9 theme, the default CSS used to style the [SCP Wiki](http://scp-wiki.wikidot.com). It was originally created by [Aelanna](http://www.wikidot.com/user:info/aelanna) and is presently maintained by the SCP Wiki Technical Team. This fork is modified to fit the [SCP-CN Wiki](http://scp-wiki-cn.wikidot.com).
 
